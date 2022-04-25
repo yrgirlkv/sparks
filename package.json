@@ -1,0 +1,13 @@
+{
+  "name": "Sparks",
+  "version": "1.0.0",
+  "description": "A Discord bot for Sparked by Resistance tabletop games.",
+  "main": "index.js",
+  "repository": "git@github.com:yrgirlkv/sparks.git",
+  "author": "Kavita <kavi.pdri@gmail.com>",
+  "license": "No license",
+  "private": false,
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
