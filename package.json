@@ -1,5 +1,5 @@
 {
-  "name": "Sparks",
+  "name": "sparks",
   "version": "1.0.0",
   "description": "A Discord bot for Sparked by Resistance tabletop games.",
   "main": "index.js",
@@ -8,6 +8,9 @@
   "license": "No license",
   "private": false,
   "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.32.0",
     "discord.js": "^13.6.0"
   }
 }
