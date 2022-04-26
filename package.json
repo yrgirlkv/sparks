@@ -6,11 +6,11 @@
   "repository": "git@github.com:yrgirlkv/sparks.git",
   "author": "Kavita <kavi.pdri@gmail.com>",
   "license": "No license",
-  "private": false,
   "dependencies": {
     "@discordjs/builders": "^0.13.0",
     "@discordjs/rest": "^0.4.1",
     "discord-api-types": "^0.32.0",
     "discord.js": "^13.6.0"
-  }
+  },
+  "packageManager": "yarn@3.2.0"
 }
