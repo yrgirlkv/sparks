@@ -12,5 +12,10 @@
     "discord-api-types": "^0.32.0",
     "discord.js": "^13.6.0"
   },
-  "packageManager": "yarn@3.2.0"
+  "packageManager": "yarn@3.2.0",
+  "scripts": {
+    "start": "node index.js",
+    "teach": "node deploy-commands.js",
+    "test": "nodemon index.js"
+  }
 }
