@@ -1,5 +1,6 @@
 # Sparks!
-(ve/ver)
+
+(ve/ver, it/its)
 
 (a Discord bot for Sparked by Resistance games)
 
